@@ -1,0 +1,12 @@
+baseline_real,yolo11n-obb.pt,blur,0.865,0.985,0.948,0.484
+stylegan_v1,yolo11n-obb.pt,blur,0.872,0.912,0.918,0.498
+stylegan_v2,yolo11n-obb.pt,blur,0.764,0.809,0.84,0.386
+diffusion_v1,yolo11n-obb.pt,blur,0.969,0.956,0.972,0.482
+diffusion_v2,yolo11n-obb.pt,blur,0.866,0.971,0.942,0.508
+diffusion_v3,yolo11n-obb.pt,blur,0.968,0.956,0.966,0.559
+stylegan_v1_50_real,yolo11n-obb.pt,blur,0.934,0.897,0.955,0.624
+stylegan_v1_real,yolo11n-obb.pt,blur,0.831,0.956,0.951,0.584
+diffusion_v3_50_real,yolo11n-obb.pt,blur,0.943,0.941,0.956,0.626
+diffusion_v3_real,yolo11n-obb.pt,blur,0.984,0.91,0.964,0.657
+stylegan_v1_50_50_real,yolo11n-obb.pt,blur,0.922,0.971,0.947,0.545
+diffusion_v3_50_50_real,yolo11n-obb.pt,blur,0.941,0.956,0.947,0.568

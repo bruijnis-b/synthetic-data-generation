@@ -1,0 +1,6 @@
+opencv-python
+decord
+pyyaml
+torch
+matplotlib
+ultralytics

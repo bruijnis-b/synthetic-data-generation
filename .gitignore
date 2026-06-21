@@ -1,0 +1,5 @@
+.venv
+.idea
+docs
+
+src/model-integration/models/yolo/runs
