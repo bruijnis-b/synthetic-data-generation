@@ -296,6 +296,6 @@ results = model.train(
 
 
 ## Author
-This repository was created by Bas Bruijnis ([![Github Badge](https://img.shields.io/badge/-bruijnis--b-24292e?style=flat&logo=Github)](https://github.com/bruijnis-b)), as part of the Bachelor Research Project (CSE3000) at [Delft University of Technology](https://www.tudelft.nl/).
+This repository was created by Bas Bruijnis ([![Github Badge](https://img.shields.io/badge/-bruijnis--b-24292e?style=flat&logo=Github)](https://github.com/bruijnis-b)), as part of the Bachelor [Research Project (CSE3000)](https://github.com/TU-Delft-CSE/Research-Project) at [Delft University of Technology](https://www.tudelft.nl/).
 
 The project was supervised by Nergis Tömen, Xucong Zhang.
